@@ -58,4 +58,43 @@
 .container-advice-button img {
   color: hsl(217deg, 19%, 24%);
   background-color: hsl(150deg, 100%, 66%);
+}
+
+@media (max-width: 709px) {
+  .container-advice {
+    width: 400px;
+  }
+  .container-advice p {
+    font-size: 23px;
+  }
+  .container-advice-divider-desktop {
+    display: none;
+  }
+  .container-advice-divider-mobile {
+    display: flex;
+    width: 300px;
+    margin-left: 50px;
+  }
+  .container-advice-button {
+    top: 310px;
+    left: 170px;
+  }
+}
+@media (max-width: 411px) {
+  .container-advice {
+    width: 330px;
+    height: 400px;
+  }
+  .container-advice p {
+    font-size: 25px;
+    margin: 50px 0 40px 0;
+  }
+  .container-advice-divider-mobile {
+    width: 300px;
+    margin-left: 15px;
+  }
+  .container-advice-button {
+    top: 360px;
+    left: 135px;
+  }
 }/*# sourceMappingURL=Advice.css.map */
