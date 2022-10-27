@@ -4,6 +4,8 @@ import IconDice from "../assets/icon-dice.svg";
 import DividerMobile from "../assets/pattern-divider-mobile.svg";
 import DividerDesktop from "../assets/pattern-divider-desktop.svg";
 import "../design/Advice.css";
+import ReactTextTransition from "react-text-transition";
+
 
 function Advice() {
   const [advice, setAdvice] = useState([]);
@@ -22,8 +24,10 @@ function Advice() {
   return (
     <div className="container">
       <div className="container-advice">
+        <ReactTextTransition className="container-advice-content">
         <h4>Advice # {advice.id}</h4>
         <p>"{advice.advice}"</p>
+        </ReactTextTransition>
         <div className="container-advice-divider">
           <img
             src={DividerDesktop}
