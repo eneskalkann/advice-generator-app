@@ -1,4 +1,4 @@
-# <h1>Advice Generator App</h1>
+# <h1 align="center">Advice Generator App</h1>
 
 This project is a Frontend Mentor project. Challenge [Link](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).
 
