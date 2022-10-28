@@ -6,7 +6,7 @@ This project is a Frontend Mentor project. Challenge [Link](https://www.frontend
 
 ## What I Learned
 
-In this project i refreshed my knowledge to working with RestAPI. 
+In this project i refreshed my knowledge to working with RestAPI also i tried react-text-transition package the first time.
 
 #### Tools 
  * React
