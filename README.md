@@ -2,7 +2,7 @@
 
 This project is a Frontend Mentor project. Challenge [Link](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).
 
-# Live Demo is [Here](advice-generator-app-eneskalkann.vercel.app)
+# Live Demo is [Here](https://advice-generator-app-eneskalkann.vercel.app/)
 
 ## What I Learned
 
